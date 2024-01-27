@@ -19,7 +19,7 @@ img {
   margin: auto;
 }
 
-figcaption {
+#img-caption {
   text-align: center;
   font-size: 0.7rem;
   padding: 0.7rem;
