@@ -1,4 +1,4 @@
-h1 {
+#header {
   text-align: center;
 }
 
@@ -18,7 +18,7 @@ figcaption {
   padding: 6px;
 }
 
-.image {
+#image {
   max-width: 100%;
   height: auto;
 }
