@@ -1,9 +1,16 @@
-h1 {
+#main {
+  background-color: rgb(251, 237, 218);
+  border: thick solid burlywood;
+  margin: 2rem auto;
+  max-width: 1000px;
+}
+
+#header {
   text-align: center;
 }
 
 figure {
-  padding: 5px;
+  padding: 0.5rem;
   margin: auto;
 }
 
@@ -14,11 +21,24 @@ img {
 
 figcaption {
   text-align: center;
-  font-size: 0.7em;
-  padding: 6px;
+  font-size: 0.7rem;
+  padding: 0.7rem;
 }
 
-.image {
+#image {
   max-width: 100%;
+  max-height: 60vh;
   height: auto;
+}
+
+#tribute-info {
+  display: block;
+  max-width: 700px;
+  margin: 0.5rem auto;
+  padding: 0.5rem;
+}
+
+#tribute-outgoing {
+  font-weight: bold;
+  text-align: center;
 }
