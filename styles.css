@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+figure {
+  padding: 5px;
+  margin: auto;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.7em;
+  padding: 6px;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+}
